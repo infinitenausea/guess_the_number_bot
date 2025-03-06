@@ -1,8 +1,5 @@
 'use strict'
 
-
-
-
 const getRandomIntNumberBot = function(min, max) {
     min = Math.floor(min);
     max = Math.ceil(max);
